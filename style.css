@@ -1,0 +1,66 @@
+#border{
+    border: 1px solid #0B102A;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#head{  
+    border: 5px solid rgb(84, 88, 92);
+    border-radius: 10px 10px 10px 10px;
+}
+
+#quote, #know-more{
+    border: 5px solid rgb(84, 88, 92);
+    border-radius: 10px 10px 10px 10px;
+}
+
+#bill{
+    border: 1px solid #0B102A;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#jeff{
+    border: 1px solid #0B102A;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#mark{
+    border: 1px solid #0B102A;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#elon{
+    border: 1px solid #0B102A;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#list{
+    border: 1px solid #0B102A;
+    border-radius: 5px 5px 5px 5px;
+}
+
+#find{
+    text-align: center;
+}
+
+#bc:hover {
+    background: rgba(43, 79, 106, 80%);
+    box-shadow: 5px 5px 10px #777;
+    transform:scale(1.03);
+  }
+
+#bc{
+    border: 3px solid #0B102A;
+    border-radius: 6px 6px 2px 2px;
+}
+table{
+    border: 2px solid #0B102A;
+}
+
+.carousel-item{
+    text-align: center;
+}
+
+.carousel-indicators{
+
+    bottom: 55px;
+}
